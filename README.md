@@ -11,6 +11,6 @@ This is a simplified clone of *Plants vs. Zombies*, programmed by me in x86 Asse
 2. Make sure all `.bmp` image files are in the **same folder** as the executable.
 
 
-🌻💥 Defend your garden, plant some peas, and stop the zombie invasion!
+🌻💥🧟 Defend your garden, plant some peas, and stop the zombie invasion!
 
 **Author:** Yotam Barkan  
